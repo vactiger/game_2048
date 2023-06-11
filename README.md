@@ -16,7 +16,7 @@ JDK 版本：Adoptium Eclipse Temurin 17
 
 本人做圖苦手，所有圖片皆使用 [Fakeimg.pl](https://fakeimg.pl/) 產生。
 
-附上我的素材 HTML code：https://codepen.io/vactiger/pen/gOQpzLx。
+附上我的素材 [HTML code](https://codepen.io/vactiger/pen/gOQpzLx)。
 
 ## 心得
 
